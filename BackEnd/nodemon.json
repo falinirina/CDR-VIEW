@@ -1,0 +1,7 @@
+{
+    "env": {
+        "PG_SQL_IP": "192.168.137.189",
+        "NODE_SERVER_URL": "http://localhost:5000",
+        "JWT_KEY": "falinirina"
+    }
+}

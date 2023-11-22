@@ -1,0 +1,20 @@
+#myCardFilter>.col
+{
+    height: 250px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    margin-left: 15px;
+    margin-right: 15px;
+    align-content: space-between;
+    align-items: stretch;
+    padding: 10px;
+}
+#myCardFilter .ui.label
+{
+    width: 100%;
+}
+#myCardFilter input
+{
+    width: 100%;
+}
